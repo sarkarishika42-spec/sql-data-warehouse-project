@@ -75,4 +75,3 @@ maintenance NVARCHAR(50)
 );
 
 GO
-GO
